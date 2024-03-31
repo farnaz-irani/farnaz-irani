@@ -1,17 +1,17 @@
-<p align="center">
+<!-- p align="center">
 <!--   <a href="https://github.com/farnaz-irani">
     <img 
       height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=farnaz-irani&layout=compact&hide=HTML,CSS&langs_count=10" 
     >
-  </a> -->
+  </a>
   <a href="https://github.com/farnaz-irani">
     <img
       height="180"
       src="https://github-readme-stats.vercel.app/api?username=farnaz-irani&count_private=true&show_icons=true&title_color=663399"
     >
   </a>
-</p>
+</p> -->
 
 ### Hi there 👋
 
